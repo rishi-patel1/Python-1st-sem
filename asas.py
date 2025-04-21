@@ -4,7 +4,7 @@ import smtplib
 
 a=input('please enter your gmail id: ')
     
-if a[-9:]!='gmail.com':
+if a[-9:]!='gmail.com'
     print('invalid email')
     quit()
     
